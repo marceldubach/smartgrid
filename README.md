@@ -8,5 +8,5 @@ Note that smart grids can be used for peak shaving, but also to provide active a
 
 TO BE CONTINUED
 
-more blabla to be added
+more blabla to be added (to be done soon)
 
